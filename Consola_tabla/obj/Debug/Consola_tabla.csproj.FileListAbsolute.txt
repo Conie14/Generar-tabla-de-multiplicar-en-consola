@@ -1,0 +1,29 @@
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.exe.config
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.exe
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.pdb
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\bin\Debug\libreria_tabla.dll
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\bin\Debug\libreria_tabla.pdb
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csprojResolveAssemblyReference.cache
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.exe
+D:\Programacion\Visual Studio 2013\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.pdb
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.exe.config
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.exe
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.pdb
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\libreria_tabla.dll
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\libreria_tabla.pdb
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csprojAssemblyReference.cache
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csproj.CoreCompileInputs.cache
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csproj.CopyComplete
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.exe
+C:\Users\conch\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.pdb
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.exe.config
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.exe
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\Consola_tabla.pdb
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\libreria_tabla.dll
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\bin\Debug\libreria_tabla.pdb
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csproj.AssemblyReference.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csproj.SuggestedBindingRedirects.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csproj.CoreCompileInputs.cache
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.csproj.CopyComplete
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.exe
+C:\Users\conch\OneDrive\Documentos\OneDrive Conchita_jr\OneDrive\Escritorio\Visual Studio 2013,2017000\Visual Studio 2013\Tablita\Consola_tabla\Consola_tabla\obj\Debug\Consola_tabla.pdb
